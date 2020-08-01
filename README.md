@@ -7,4 +7,4 @@
 #### Would you like to find me? 📫 Search for me on [Linkedin](https://www.linkedin.com/in/marcel-santos-souza-bbbaa1191/) and also on [Facebook](https://www.facebook.com/marelaraujosantossouza/).
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?MarcelSSouza=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?marcelssouza=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
