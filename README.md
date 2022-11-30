@@ -4,12 +4,6 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- A passionate Self-taught Front-end developer
-- Playing RPG's at spare time
-- Currently learning Web Development by self and student at the University of Aveiro
-- Intern at Tecmafoods
-- Languages, Softwares and Tools:
-    
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,7 +16,7 @@
 
 <div align="center">
 
-<a href="https://github.com/MPetersonNevesFilho/">
+<a href="https://github.com/MarcelSSouza/">
   <img src="https://github-readme-stats.vercel.app/api?username=MPetersonNevesFilho&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MPetersonNevesFilho&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="318"  alt="MPetersonNevesFilho"/>
 
