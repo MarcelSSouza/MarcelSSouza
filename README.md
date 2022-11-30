@@ -4,10 +4,10 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- A passionate Self-taught Front-end developer
-- Playing RPG's at spare time
-- Currently learning Web Development by self and student at the University of Aveiro
-- Intern at Tecmafoods
+- A passionate self-taught Front-end developer
+- Playing guitar and videogames at spare time
+- Currently learning Web Development by self and at the University of Aveiro
+- Polyglot (Portuguese, Spanish, English and Italian)
 - Languages, Softwares and Tools:
 
 
