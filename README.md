@@ -1,12 +1,12 @@
 
 
-## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> **I currently**
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> **I currently am**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - A passionate self-taught Front-end developer
 - Playing guitar and videogames at spare time
-- Currently learning Web Development by self and at the University of Aveiro
+- Learning Web Development by myself and at the University of Aveiro
 - Polyglot (Portuguese, Spanish, English and Italian)
 - Languages, Softwares and Tools:
 
