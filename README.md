@@ -6,7 +6,6 @@
 
 - A passionate self-taught Front-end developer
 - Playing guitar and videogames at spare time
-- Learning Web Development by myself and at the University of Aveiro
 - Polyglot (Portuguese, Spanish, English and Italian)
 - Languages, Softwares and Tools:
 
