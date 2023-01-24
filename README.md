@@ -36,3 +36,6 @@
 	
 </ul>
 </div>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={MarcelSSouza}&theme=blue-green
+
