@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- A passionate self-taught Front-end developer
+- A passionate self-taught Full-Stack developer
 - Playing guitar and videogames at spare time
 - Polyglot (Portuguese, Spanish, English and Italian)
 
