@@ -18,20 +18,5 @@
     ![Java](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
     ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-    
 
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b> Let's Connect! </b>
-<div align='left'>
-
-<a href="https://www.linkedin.com/in/marcelssouza/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  MarcelSantosSouza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-
-
-<a href="mailto:marcelaraujosantossouza19@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:MarcelSantosSouza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-	
-</ul>
-</div>
 
